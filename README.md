@@ -1,3 +1,3 @@
 # Adel-nasim
 
-## For c++ programers and problem solvesrs.
+## For c++ programers and problem solvers.
